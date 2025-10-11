@@ -4,5 +4,6 @@
 知识点：标签写法、骨架、标签关系、注释
 
 效果：
-- [GitHub Pages预览](https://htmlpreview.github.io/?https://raw.githubusercontent.com/Ray-ruirui/daily-code.html5-css-web/main/01-base-tags.html)
-- [直接下载文件](./01-base-tags.html)
+1. 点击上面的 `01-base-tags.html` 文件
+2. 点击右上角的 "Download"（下载按钮）
+3. 下载到电脑后，双击用浏览器打开
