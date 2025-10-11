@@ -4,5 +4,5 @@
 知识点：标签写法、骨架、标签关系、注释
 
 效果：
-- [GitHub Pages预览](https://github.com/Ray-ruirui/daily-code-html5-css-web/01-base-tags/index.html)
+- [GitHub Pages预览](https://htmlpreview.github.io/?https://raw.githubusercontent.com/Ray-ruirui/daily-code.html5-css-web/main/01-base-tags.html)
 - [直接下载文件](./01-base-tags.html)
