@@ -35,3 +35,7 @@
 知识点：文字颜色
 # 16-mini-profile（1）
 知识点：单页综合小案例
+# 16-compound-selectors
+知识点：后代选择器、子代选择器、并集选择器
+# 17-pseudo-classes
+知识点：伪类选择器、超链接选择器
