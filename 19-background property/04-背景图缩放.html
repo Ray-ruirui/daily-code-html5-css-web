@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>背景缩放图</title>
+    <style>
+        div {
+            /* 盒子是1500*1500 */
+            width: 1500px;
+            height: 1500px;
+            /* 背景图默认是平铺效果 */
+           background-image: url(./3.jpg);
+           background-repeat: no-repeat; /* 不平铺 */
+           /* 背景图缩放 */
+           background-size: contain; /* 包含全部背景图 */
+           /* background-size: cover; 盖满整个盒子 */
+        }
+    </style>
+</head>
+<body>
+    <div>div标签</div>
+</body>
+</html>
