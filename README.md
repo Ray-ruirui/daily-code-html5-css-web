@@ -41,7 +41,7 @@
 知识点：伪类选择器、超链接选择器
 # 18-css-cis
 知识点：CSS的三大属性
-# 19-19-background property
+# 19-background property
 知识点：背景图、背景图平铺方式、背景图位置、背景图缩放、背景图的固定
 # 20-Display Mode
 知识点：块元素、行内元素、行内快元素
